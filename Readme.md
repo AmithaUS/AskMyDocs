@@ -1,16 +1,16 @@
-# AskMyDocs 📄
+# AskMyDocs 
 
 A **RAG (Retrieval-Augmented Generation)** based document Q&A application that lets you upload PDFs or TXT files and chat with them using natural language — powered by LLaMA 3.3 via Groq.
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 > Upload a document → Index it → Ask questions → Get accurate answers with source references.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -23,7 +23,7 @@ A **RAG (Retrieval-Augmented Generation)** based document Q&A application that l
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 ```
 Upload PDF/TXT
@@ -45,7 +45,7 @@ Return answer with source references
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rag-doc-chat/
@@ -60,7 +60,7 @@ rag-doc-chat/
 
 ---
 
-## 🔧 Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 ```bash
@@ -111,7 +111,7 @@ streamlit run app.py
 
 ---
 
-## 🖥️ Terminal Mode
+##  Terminal Mode
 
 You can also run the app in terminal mode (no UI):
 ```bash
@@ -121,7 +121,7 @@ Place your documents in the `docs/` folder first.
 
 ---
 
-## 📦 Key Dependencies
+##  Key Dependencies
 
 ```
 langchain
@@ -137,7 +137,7 @@ pypdf
 
 ---
 
-## 🙋 Author
+##  Author
 
 **Amitha U S**  
 BSc Statistics | Aspiring Data Scientist  
