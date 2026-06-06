@@ -141,7 +141,7 @@ pypdf
 
 **Amitha U S**  
 BSc Statistics | Aspiring Data Scientist  
-[LinkedIn]([www.linkedin.com/in/amitha-u-s-36165b361]) • [GitHub](https://github.com/AmithaUS)
+[LinkedIn](https://www.linkedin.com/in/amitha-u-s-36165b361) • [GitHub](https://github.com/AmithaUS)
 
 ---
 
